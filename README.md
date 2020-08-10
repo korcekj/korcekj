@@ -43,7 +43,7 @@
 
 <!-- <img align="left" alt="korcekj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=korcekj&show_icons=true&hide_border=true&theme=tokyonight" /> -->
 
-<img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj" />
+<img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&hide_border=true" />
 
 <!-- <img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&theme=tokyonight" /> -->
 
