@@ -24,7 +24,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git-hub]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][git-hub]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git-hub]
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][git]
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][git-hub]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git-hub]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][git-hub]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][git-hub]
@@ -43,9 +43,9 @@
 
 <img align="left" alt="korcekj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=korcekj&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<!-- <img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj" /> -->
+<!-- <img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&layout=compact" /> -->
 
-<img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&theme=tokyonight" />
+<img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&theme=tokyonight&layout=compact" />
 
 [git-hub]: https://github.com/korcekj
 [twitter]: https://twitter.com/JanciKorcek
