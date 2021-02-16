@@ -1,10 +1,10 @@
 ### Hi there, I'm Jan Korcek - aka [Janci][git-hub] 👋
 
-## I'm a Student, Developer, and Entertainer!
+## I'm a Student and Developer
 
-- 🔭 I’m currently working on a [React Native application][cook-book]!
-- 🌱 I’m currently learning vue.js
-- 🥅 2020 Goals: Contribute at least one Open Source project
+- 🔭 I’m currently working on a React / Redux application!
+- 🌱 I’m currently learning GraphQL and Typescript
+- 🥅 2021 Goals: Survive
 - ⚡ Fun fact: I love to code 🤣
 
 ### Connect with me:
