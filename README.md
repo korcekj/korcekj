@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer
 
-- 🔭 I’m currently working on a React / Redux application!
-- 🌱 I’m currently learning GraphQL and Typescript
-- 🥅 2021 Goals: Survive
+- 🔭 I’m currently working on a NextJS / Sanity project!
+- 🌱 I’m currently learning Typescript and Groq query language
+- 🥅 2022 Goals: Survive
 - ⚡ Fun fact: I love to code 🤣
 
 ### Connect with me:
@@ -39,15 +39,6 @@
 
 ---
 
-<img align="left" alt="korcekj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=korcekj&show_icons=true&hide_border=true" />
-
-<!-- <img align="left" alt="korcekj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=korcekj&show_icons=true&hide_border=true&theme=tokyonight" /> -->
-
-<img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&hide_border=true" />
-
-<!-- <img align="left" alt="korcekj's Github Langs" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=korcekj&theme=tokyonight" /> -->
-
 [git-hub]: https://github.com/korcekj
 [twitter]: https://twitter.com/JanciKorcek
 [instagram]: https://www.instagram.com/jan.korcek
-[cook-book]: https://github.com/korcekj/cook-book
