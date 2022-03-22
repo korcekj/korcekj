@@ -45,8 +45,6 @@
 
 ---
 
-### GitHub repositories:
-
 <a href="https://github.com/korcekj/smart-voice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korcekj&repo=smart-voice&theme=dracula" />
 </a>
