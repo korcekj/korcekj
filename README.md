@@ -37,20 +37,13 @@
 <br />
 <br />
 
+---
+
 ### GitHub stats:
 
 |                                                                  Stats                                                                   |                                                                Languages                                                                 |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=korcekj&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=korcekj&layout=compact&theme=dracula&hide_border=true&langs_count=10) |
-
----
-
-<a href="https://github.com/korcekj/smart-voice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korcekj&repo=smart-voice&theme=dracula" />
-</a>
-<a href="https://github.com/korcekj/smart-voice-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korcekj&repo=smart-voice-server&theme=dracula" />
-</a>
 
 [git-hub]: https://github.com/korcekj
 [instagram]: https://www.instagram.com/jan.korcek
