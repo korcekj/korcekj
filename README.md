@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer
 
-- 💼 RPA Developert at [ING](https://www.ing.com/Home.htm)
-- 🔭 I’m currently working on a NextJS / Sanity project!
-- 🌱 I’m currently learning Typescript and Groq query language
-- 🥅 2022 Goals: Survive
+- 💼 RPA Developer at [ING](https://www.ing.com/Home.htm)
+- 🔭 I’m currently working on a Svelte project
+- 🌱 I’m currently learning Typescript and tRPC
+- 🥅 2023 Goals: Survive
 - ⚡ Fun fact: I love to code 🤣
 
 ### Connect with me:
