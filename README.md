@@ -1,6 +1,6 @@
 ### Hi there, I'm Jan Korcek - aka [Janci][git-hub] 👋
 
-## I'm a Student and Developer
+## I'm a Developer
 
 - 💼 RPA Developer at [ING](https://www.ing.com/Home.htm)
 - 🔭 I’m currently working on a Svelte project
