@@ -3,9 +3,9 @@
 ## I'm a Developer
 
 - 💼 RPA Developer at [ING](https://www.ing.com/Home.htm)
-- 🔭 I’m currently working on a SvelteKit project
-- 🌱 I’m currently learning ORM (Prisma/Drizzle)
-- 🥅 2024 Goals: Survive
+- 🔭 I’m currently working on a Hono/Nextjs project (monorepo)
+- 🌱 I’m currently learning AI web integrations
+- 🥅 2025 Goals: Build good habits
 - ⚡ Fun fact: I love to code 🤣
 
 ### Connect with me:
