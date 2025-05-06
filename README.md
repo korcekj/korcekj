@@ -2,10 +2,10 @@
 
 ## I'm a Developer
 
-- 💼 RPA Developer at [ING](https://www.ing.com/Home.htm)
-- 🔭 I’m currently working on a Hono/Nextjs project (monorepo)
-- 🌱 I’m currently learning AI web integrations
-- 🥅 2025 Goals: Build good habits
+- 💼 Backend Developer at [GoodRequest](https://www.goodrequest.com/)
+- 🔭 I’m currently working on a Habit tracker application (Nextjs)
+- 🌱 I’m currently learning AI web integrations and Background job processing
+- 🥅 2025 Goals: Build profitable habits
 - ⚡ Fun fact: I love to code 🤣
 
 ### Connect with me:
